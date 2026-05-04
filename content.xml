@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260502020029FFCV8G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605020200296LFVAU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto: Del huerto, a la mesa.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Imaginamos y Creamos una receta saludable.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Arenas Cruz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso educativo basado en el huerto para alumnado con Necesidades Específicas de Apoyo Educativo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777679970444</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-monkr7tm-y0bvhk22w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7tm-y0bvhk22w</odePageId>
+      <odeBlockId>block-1777473888996-kyhdweyid</odeBlockId>
+      <blockName>CADA UNA DE NUESTRAS TAREAS ESTARÁ RELACIONADA CON UN CRITERIO.</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tm-y0bvhk22w</odePageId>
+          <odeBlockId>block-1777473888996-kyhdweyid</odeBlockId>
+          <odeIdeviceId>idevice-1777473888992-2v5r8xjas</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777473888992-2v5r8xjas" title="Cada criterio nos explica qué es lo importante de nuestro aprendizaje." href="{{context_path}}/content/resources/guia didactica..png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/guia didactica..png" height="128" width="128" title="Cada criterio nos explica qué es lo importante de nuestro aprendizaje." alt="Cada criterio nos explica qué es lo importante de nuestro aprendizaje." titlelink="El criterio 1 está relacionado con la tarea 1, el criterio 2 está relacionado con la tarea 2, y así sucesivamente." author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777473888992-2v5r8xjas","img_0":{"img":"{{context_path}}/content/resources/guia didactica..png","thumbnail":"{{context_path}}/content/resources/guia didactica..png","title":"Cada criterio nos explica qué es lo importante de nuestro aprendizaje.","linktitle":"El criterio 1 está relacionado con la tarea 1, el criterio 2 está relacionado con la tarea 2, y así sucesivamente.","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7tq-av2fwg18h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación y descripción del proyecto. ¿Qué vamos a realizar?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto. ¿Qué vamos a realizar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto. ¿Qué vamos a realizar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación y descripción del proyecto. ¿Qué vamos a realizar?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7tq-av2fwg18h</odePageId>
+      <odeBlockId>block-1777394536458-z8dnf78gj</odeBlockId>
+      <blockName></blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tq-av2fwg18h</odePageId>
+          <odeBlockId>block-1777394536458-z8dnf78gj</odeBlockId>
+          <odeIdeviceId>idevice-1777394536455-hthpzb3wk</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69cbf910b330433885076f39" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7tr-wrd52r6kt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Protección de datos. Tenemos que tener en cuenta que...</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos. Tenemos que tener en cuenta que...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos. Tenemos que tener en cuenta que...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Protección de datos. Tenemos que tener en cuenta que...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7tr-wrd52r6kt</odePageId>
+      <odeBlockId>block-1777398565141-3vu1ds3oy</odeBlockId>
+      <blockName>Es importante saber que...</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tr-wrd52r6kt</odePageId>
+          <odeBlockId>block-1777398565141-3vu1ds3oy</odeBlockId>
+          <odeIdeviceId>idevice-1777398565138-tjcjjqqji</odeIdeviceId>
+          <odeIdeviceTypeName>magnifier</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-magnifier-container">
+  
+    <div class="MNF-MainContainer" id="mnfPMainContainer-idevice-1777398565138-tjcjjqqji" style="display:flex; flex-direction:column; align-items:flex-start;">
+        <div class="MNF-instructions" style="flex:1; text-align:left; margin:0 0 1rem;">
+            <p>NO podemos compartir y publicar documentos de otras personas sin permiso.</p>
+<p>DEBEMOS respetar la privacidad propia y de los demás.</p>
+<p>Con la imagen adjunta lo entenderemos mejor.</p>
+<p><img src="{{context_path}}/content/resources/PROTECCIÓN DE DATOS.png" width="340" height="735" alt="" /></p>
+        </div>
+        <div id="mnfPNotImage-idevice-1777398565138-tjcjjqqji" style="display:none"><p>Imagen no disponible.</p></div>
+        <div class="MNF-image-wrapper" id="image-wrapper-idevice-1777398565138-tjcjjqqji" style="flex-shrink:0;">
+            <a href="#" class="MNF-FullLinkImage" title="Pantalla completa" aria-label="Pantalla completa">
+                <div class="MNF-FullImage MNF-Activo" aria-hidden="true"></div>
+                <span class="sr-av">Pantalla completa</span>
+            </a>
+            <div class="ImageMagnifierIdevice">
+                <div class="image-thumbnail" id="image-thumbnail-idevice-1777398565138-tjcjjqqji">
+                    <div style="position: relative; display: block; width:400; height: auto; margin-bottom: 50px;">
+                        <img id="magnifier-idevice-1777398565138-tjcjjqqji"
+                             src="{{context_path}}/content/resources/PROTECCIÓN DE DATOS.png"
+                             data-magnifysrc="{{context_path}}/content/resources/PROTECCIÓN DE DATOS.png"
+                             alt=""
+                             width="400"
+                             data-size="2"
+                             data-zoom="200">
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777398565138-tjcjjqqji","typeGame":"magnifier","textTextarea":"<p>NO podemos compartir y publicar documentos de otras personas sin permiso.</p>\n<p>DEBEMOS respetar la privacidad propia y de los demás.</p>\n<p>Con la imagen adjunta lo entenderemos mejor.</p>\n<p><img src=\"{{context_path}}/content/resources/PROTECCIÓN DE DATOS.png\" width=\"340\" height=\"735\" alt=\"\" /></p>","isDefaultImage":"0","imageResource":"{{context_path}}/content/resources/PROTECCIÓN DE DATOS.png","defaultImage":"./files/perm/idevices/base/magnifier/edition/hood.jpg","height":"","width":"400","align":"none","initialZSize":"200","maxZSize":600,"glassSize":"2","author":"","alt":"","msgs":{"msgFullScreen":"Pantalla completa","msgNotImage":"Imagen no disponible.","msgAuthor":"Autoría","msgAlt":"Texto alternativo","msgNoSuportBrowser":"Su navegador no es compatible con esta herramienta."},"ideviceId":"idevice-1777398565138-tjcjjqqji"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7tt-c5jzu897x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Producto final: Creamos una receta saludable</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final: Creamos una receta saludable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final: Creamos una receta saludable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Producto final: Creamos una receta saludable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7tt-c5jzu897x</odePageId>
+      <odeBlockId>block-1777401006801-sktjn8k01</odeBlockId>
+      <blockName>PASOS A SEGUIR</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tt-c5jzu897x</odePageId>
+          <odeBlockId>block-1777401006801-sktjn8k01</odeBlockId>
+          <odeIdeviceId>idevice-1777401006797-rt6yr7bcv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Recopila todos los alimentos que hemos visto.</p>
+<p>2. Piensa en algo que te gustaría crear con ellos.</p>
+<p>3. Busca información</p>
+<p>4. Elabora tu receta</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777401006797-rt6yr7bcv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Recopila todos los alimentos que hemos visto.</p>\n<p>2. Piensa en algo que te gustaría crear con ellos.</p>\n<p>3. Busca información</p>\n<p>4. Elabora tu receta</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-monkr7tt-c5jzu897x</odePageId>
+      <odeBlockId>block-1777400933954-9x3765ubf</odeBlockId>
+      <blockName>¡SEAMOS CREATIVOS!</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tt-c5jzu897x</odePageId>
+          <odeBlockId>block-1777400933954-9x3765ubf</odeBlockId>
+          <odeIdeviceId>idevice-1777400933949-g37h1rdu6</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777400933949-g37h1rdu6" title="" href="{{context_path}}/content/resources/TU RECETA SALUDABLE.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/TU RECETA SALUDABLE.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777400933949-g37h1rdu6","img_0":{"img":"{{context_path}}/content/resources/TU RECETA SALUDABLE.png","thumbnail":"{{context_path}}/content/resources/TU RECETA SALUDABLE.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Curación de contenidos: aplicaciones y herramientas que vamos a utilizar en nuestro proyecto.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenidos: aplicaciones y herramientas que vamos a utilizar en nuestro proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenidos: aplicaciones y herramientas que vamos a utilizar en nuestro proyecto.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Curación de contenidos: aplicaciones y herramientas que vamos a utilizar en nuestro proyecto.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+      <odeBlockId>block-1777401264652-k8gw8hq8g</odeBlockId>
+      <blockName>HERRAMIENTAS QUE VOY A UTILIZAR YO (SEÑO)</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+          <odeBlockId>block-1777401264652-k8gw8hq8g</odeBlockId>
+          <odeIdeviceId>idevice-1777401264648-0zix9f6da</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/anaarenascruz/herramientas-de-mi-dia-a-dia-ktuoki5ku971fzes" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+      <odeBlockId>block-1777401372692-4glfh2r7k</odeBlockId>
+      <blockName>HERRAMIENTAS QUE VAIS A UTILIZAR VOSOTROS A LO LARGO DEL PROYECTO.</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+          <odeBlockId>block-1777401372692-4glfh2r7k</odeBlockId>
+          <odeIdeviceId>idevice-1777401372690-t4aynbfn8</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.diigo.com/outliner/oc0o0x/PROYECTO-EL-HUERTO?key=2jwvq0srtn" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+      <odeBlockId>block-1777482158583-g8bcrelbp</odeBlockId>
+      <blockName>AUTORÍAS Y LICENCIAS DE LOS VÍDEOS QUE UTILIZO</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tv-fd6alaqr5</odePageId>
+          <odeBlockId>block-1777482158583-g8bcrelbp</odeBlockId>
+          <odeIdeviceId>idevice-1777482158581-u1l8cg51g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>AUTORES:</strong></p>
+<p>DUBIKIDS</p>
+<p>MELICOLOR</p>
+<p>SUPER SIMPLE ESPAÑOL</p>
+<p>PLANETA INFANTIL</p>
+<p>LOLIN1996</p>
+<p>APRENDE CON EDU</p>
+<p>E.I ABELLINAS</p>
+<p><strong>LICENCIAS:</strong></p>
+<p>Creative Commons</p>
+<p>Licencia estándar de YouTube.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777482158581-u1l8cg51g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>AUTORES:</strong></p>\n<p>DUBIKIDS</p>\n<p>MELICOLOR</p>\n<p>SUPER SIMPLE ESPAÑOL</p>\n<p>PLANETA INFANTIL</p>\n<p>LOLIN1996</p>\n<p>APRENDE CON EDU</p>\n<p>E.I ABELLINAS</p>\n<p><strong>LICENCIAS:</strong></p>\n<p>Creative Commons</p>\n<p>Licencia estándar de YouTube.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7ty-9vpxi4tbn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal: Organización de nuestras actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal: Organización de nuestras actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal: Organización de nuestras actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Línea temporal: Organización de nuestras actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7ty-9vpxi4tbn</odePageId>
+      <odeBlockId>block-1777401785002-hf9dhfy7l</odeBlockId>
+      <blockName>VAMOS A SEGUIR EL SIGUIENTE ORDEN PARA REALIZAR NUESTRAS ACTIVIDADES.</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7ty-9vpxi4tbn</odePageId>
+          <odeBlockId>block-1777401785002-hf9dhfy7l</odeBlockId>
+          <odeIdeviceId>idevice-1777401784999-6sfdabtse</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69e79450f806236743446c16" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7tz-f3qmppv6q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Criterios que vamos a evaluar</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios que vamos a evaluar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios que vamos a evaluar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Criterios que vamos a evaluar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7tz-f3qmppv6q</odePageId>
+      <odeBlockId>block-1777402208372-nacsd0oet</odeBlockId>
+      <blockName>CON ESTA TABLA PODÉIS VER MÁS CLARO QUÉ VA A EVALUAR LA SEÑO.</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7tz-f3qmppv6q</odePageId>
+          <odeBlockId>block-1777402208372-nacsd0oet</odeBlockId>
+          <odeIdeviceId>idevice-1777402208372-v5frgowem</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>DEBÉIS PINCHAR EN EL ENLACE. AHÍ TENÉIS TODA LA INFORMACIÓN IMPORTANTE QUE HAY QUE SABER.</p>
+<p><a href="https://docs.google.com/document/d/1xBNUnfqcK-KuLjfhUmyRDyS0IDzD3PvY__5GhUhLmZY/edit?usp=sharing" title="">https://docs.google.com/document/d/1xBNUnfqcK-KuLjfhUmyRDyS0IDzD3PvY__5GhUhLmZY/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777402208372-v5frgowem","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>DEBÉIS PINCHAR EN EL ENLACE. AHÍ TENÉIS TODA LA INFORMACIÓN IMPORTANTE QUE HAY QUE SABER.</p>\n<p><a href=\"https://docs.google.com/document/d/1xBNUnfqcK-KuLjfhUmyRDyS0IDzD3PvY__5GhUhLmZY/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1xBNUnfqcK-KuLjfhUmyRDyS0IDzD3PvY__5GhUhLmZY/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación ¿Cuáles son?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación ¿Cuáles son?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación ¿Cuáles son?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Instrumentos de evaluación ¿Cuáles son?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+      <odeBlockId>block-1777402377613-18ljou9bw</odeBlockId>
+      <blockName>TODO ES IMPORTANTE.</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+          <odeBlockId>block-1777402377613-18ljou9bw</odeBlockId>
+          <odeIdeviceId>idevice-1777402377611-ln65qtb2i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Tarea 8. Instrumentos de evaluación.pdf" title="Tarea 8. Instrumentos de evaluación.pdf">INSTRUMENTOS QUE VOY A UTILIZAR PARA SABER CÓMO LO ESTÁIS HACIENDO.pdf. </a></p>
+<p>EN ESTE ENLACE VIENE TODA LA INFORMACIÓN DETALLADA, AUNQUE...</p>
+<p>En nuestro proyecto, todo el proceso es importante:</p>
+<p>- Todas las tareas.</p>
+<p>- Las ganas e interés que le pongáis.</p>
+<p>- El compañerismo.</p>
+<p>Aquí os dejo una rúbrica en la que se explica qué significa cada carita que os pondré para que sepáis que tenéis que mejorar. </p>
+<p>Además, recibiréis un diploma final por el gran trabajo que se que realizaréis.</p>
+<p>¡¡¡SUERTE Y A POR TODAS CHIC@S!!!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777402377611-ln65qtb2i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Tarea 8. Instrumentos de evaluación.pdf\" title=\"Tarea 8. Instrumentos de evaluación.pdf\">INSTRUMENTOS QUE VOY A UTILIZAR PARA SABER CÓMO LO ESTÁIS HACIENDO.pdf. </a></p>\n<p>EN ESTE ENLACE VIENE TODA LA INFORMACIÓN DETALLADA, AUNQUE...</p>\n<p>En nuestro proyecto, todo el proceso es importante:</p>\n<p>- Todas las tareas.</p>\n<p>- Las ganas e interés que le pongáis.</p>\n<p>- El compañerismo.</p>\n<p>Aquí os dejo una rúbrica en la que se explica qué significa cada carita que os pondré para que sepáis que tenéis que mejorar. </p>\n<p>Además, recibiréis un diploma final por el gran trabajo que se que realizaréis.</p>\n<p>¡¡¡SUERTE Y A POR TODAS CHIC@S!!!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+      <odeBlockId>block-1777402868497-hbka6uijd</odeBlockId>
+      <blockName>DIPLOMA DE CHEF</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+          <odeBlockId>block-1777402868497-hbka6uijd</odeBlockId>
+          <odeIdeviceId>idevice-1777402868497-zr7rgjmr5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777402868497-zr7rgjmr5" title="" href="{{context_path}}/content/resources/DIPLOMA DE CHEF.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/DIPLOMA DE CHEF.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777402868497-zr7rgjmr5","img_0":{"img":"{{context_path}}/content/resources/DIPLOMA DE CHEF.png","thumbnail":"{{context_path}}/content/resources/DIPLOMA DE CHEF.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+      <odeBlockId>block-1777403199487-fu3pbosnf</odeBlockId>
+      <blockName>ESTA RÚBRICA OS AYUDARÁ A SABER QUÉ QUIERO QUE CONSIGÁIS Y QUÉ DEBÉIS MEJORAR</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7u0-gh94orxjf</odePageId>
+          <odeBlockId>block-1777403199487-fu3pbosnf</odeBlockId>
+          <odeIdeviceId>idevice-1777403199484-3py730su2</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777403199484-3py730su2" title="" href="{{context_path}}/content/resources/RÚBRICA PROYECTO EL HUERTO.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/RÚBRICA PROYECTO EL HUERTO.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777403199484-3py730su2","img_0":{"img":"{{context_path}}/content/resources/RÚBRICA PROYECTO EL HUERTO.png","thumbnail":"{{context_path}}/content/resources/RÚBRICA PROYECTO EL HUERTO.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-monkr7u1-jxy1b1sqo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-monkr7u1-jxy1b1sqo</odePageId>
+      <odeBlockId>block-1777474762001-jpx7jbsu2</odeBlockId>
+      <blockName>Proyecto realizado por:</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-monkr7u1-jxy1b1sqo</odePageId>
+          <odeBlockId>block-1777474762001-jpx7jbsu2</odeBlockId>
+          <odeIdeviceId>idevice-1777474761989-8plrxt4ii</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>AUTORÍA:</p>
+<p>Este proyecto ha sido elaborado por Ana Arenas Cruz, maestra de pedagogía terapéutica en Andalucía, como recurso educativo dentro de una propuesta didáctica basada en el uso del huerto escolar como herramienta de aprendizaje.</p>
+<p>DESCRIPCIÓN DEL RECURSO:</p>
+<p>El presente material forma parte de un proyecto educativo centrado en el desarrollo de aprendizajes competenciales a través del huerto escolar.</p>
+<p>Incluye actividades, propuesta metodológicas y recursos adaptados dirigidos a mi alumnado NEAE, fomentando el aprendizaje experiencial, la educación ambiental, el trabajo cooperativo y la inclusión educativa.</p>
+<p>LICENCIA DE USO:</p>
+<p>Este material se comparte bajo una licencia tipo:</p>
+<p>Creative Commons Reconocimiento- No Comercial- Compartir Igual (CC BY-NC-SA).</p>
+<p>Esto implica que, se puede usar y adaptar libremente y se debe reconocer la autoría pero no se permite su uso comercial.</p>
+<p>DESCARGA DEL ARCHIVO EDITABLE:</p>
+<p><a href="{{context_path}}/content/resources/EXELEARNING PROYECTO DEL HUERTO A LA MESA.si.elpx" title="EXELEARNING PROYECTO DEL HUERTO A LA MESA.si.elpx [elpx - 4979708 B]">EXELEARNING PROYECTO DEL HUERTO A LA MESA.si.elpx</a><span class="exe-link-data file-size">(elpx - 4979708 <abbr title="Bytes">B</abbr>)</span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777474761989-8plrxt4ii","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>AUTORÍA:</p>\n<p>Este proyecto ha sido elaborado por Ana Arenas Cruz, maestra de pedagogía terapéutica en Andalucía, como recurso educativo dentro de una propuesta didáctica basada en el uso del huerto escolar como herramienta de aprendizaje.</p>\n<p>DESCRIPCIÓN DEL RECURSO:</p>\n<p>El presente material forma parte de un proyecto educativo centrado en el desarrollo de aprendizajes competenciales a través del huerto escolar.</p>\n<p>Incluye actividades, propuesta metodológicas y recursos adaptados dirigidos a mi alumnado NEAE, fomentando el aprendizaje experiencial, la educación ambiental, el trabajo cooperativo y la inclusión educativa.</p>\n<p>LICENCIA DE USO:</p>\n<p>Este material se comparte bajo una licencia tipo:</p>\n<p>Creative Commons Reconocimiento- No Comercial- Compartir Igual (CC BY-NC-SA).</p>\n<p>Esto implica que, se puede usar y adaptar libremente y se debe reconocer la autoría pero no se permite su uso comercial.</p>\n<p>DESCARGA DEL ARCHIVO EDITABLE:</p>\n<p><a href=\"{{context_path}}/content/resources/EXELEARNING PROYECTO DEL HUERTO A LA MESA.si.elpx\" title=\"EXELEARNING PROYECTO DEL HUERTO A LA MESA.si.elpx [elpx - 4979708 B]\">EXELEARNING PROYECTO DEL HUERTO A LA MESA.si.elpx</a><span class=\"exe-link-data file-size\">(elpx - 4979708 <abbr title=\"Bytes\">B</abbr>)</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
